@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdeploy_test_2=self.webpackChunkdeploy_test_2||[]).push([[8806],{9264:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/deploy-test-2/blog/tags/hola","allTagsPath":"/deploy-test-2/blog/tags","count":1,"unlisted":false}')}}]);

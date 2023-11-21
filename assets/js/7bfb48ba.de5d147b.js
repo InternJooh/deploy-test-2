@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdeploy_test_2=self.webpackChunkdeploy_test_2||[]).push([[419],{3690:e=>{e.exports=JSON.parse('{"permalink":"/deploy-test-2/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
